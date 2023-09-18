@@ -1,10 +1,4 @@
-# Fabric Example Mod
+# Name Tag Enabler (Fabric edition)
+This mod lets animal nametags render 100% of the time, whether you're mousing over them or not. This does not modify player nametag behavior in any way.
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the
-IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Fabric API is not required!
